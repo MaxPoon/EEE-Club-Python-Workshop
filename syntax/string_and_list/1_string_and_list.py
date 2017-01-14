@@ -14,3 +14,6 @@ print(my_list)
 # my_string = 'a'
 # print(my_string)
 # string is immutable
+
+my_list = [1, 'word', 3.4, [1,2,3]]
+print(my_list)
