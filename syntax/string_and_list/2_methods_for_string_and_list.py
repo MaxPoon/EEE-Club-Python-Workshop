@@ -6,9 +6,16 @@ my_list_2 = my_list*2
 
 print(my_string_2)
 print(my_list_2)
+print()
+
+print(3 in my_list)
+print('is' in my_string)
+print('that' in my_string)
+print()
 
 print(len(my_list))
 print(len(my_string))
+print()
 
 my_list.append(0)
 my_list.append(5)
