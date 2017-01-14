@@ -17,6 +17,11 @@ my_list.sort()
 print(my_list)
 print()
 
+print(my_list.pop())
+print(my_list.pop(0))
+print(my_list)
+print()
+
 my_string = "  this is a string  "
 my_string.strip()
 print(my_string)
