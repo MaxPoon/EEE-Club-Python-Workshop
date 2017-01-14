@@ -14,3 +14,7 @@ print()
 x = 5
 x += 1
 print(x)
+print()
+
+print(2**5)
+print(10**2.5)
