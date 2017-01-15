@@ -13,6 +13,14 @@ print('is' in my_string)
 print('that' in my_string)
 print()
 
+my_list_1 = [1,2,3]
+my_list_2 = [1,2,4]
+print(my_list_1<my_list_2)
+my_string_1 = "abc"
+my_string_2 = "xyz"
+print(my_string_1>my_string_2)
+print()
+
 print(len(my_list))
 print(len(my_string))
 print()
