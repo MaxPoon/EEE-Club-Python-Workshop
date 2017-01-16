@@ -10,6 +10,11 @@ print(2 in s)
 print(5 in s)
 print()
 
+s = set()
+s.add(1)
+print(s)
+print()
+
 l = [1,1,1,2,2,3,4,0]
 s = set(l)
 print(s)
