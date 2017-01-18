@@ -13,3 +13,12 @@ print()
 # print(x)
 # def sub(a,b):
 # 	return a-b
+
+def add(a, b=1):
+	return a+b
+
+x = add(2)
+print(x)
+x = add(2,2)
+print(x)
+print()
