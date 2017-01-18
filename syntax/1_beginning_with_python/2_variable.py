@@ -16,3 +16,7 @@ x = True
 print(x)
 y = False
 print(False)
+print()
+
+a = None
+print(a)
