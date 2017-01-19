@@ -8,6 +8,11 @@ else:
 
 x = int(input("enter an integer: "))
 if not x==10:
-	print("it's not equal to 10")
+	print("it's not equal to 10\n")
 else:
-	print("it's equal to 10")
+	print("it's equal to 10\n")
+
+x = int(input("Enter an integer: "))
+print("this is an odd number" if x%2==1 else "this is an even number")
+a = True if x==10 else False
+print(a)

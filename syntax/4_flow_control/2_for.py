@@ -14,3 +14,12 @@ for x in s:
 d = {'Name': 'Jack', 'Age': 20}
 for k,v in d.items():
 	print(k,'is',v)
+
+print()
+
+l = [x**2 for x in [1,2,3,4,5,6,7,8,9,10]]
+print(l)
+print()
+
+l = [x**2 for x in [1,2,3,4,5,6,7,8,9,10] if x%2==0]
+print(l)
