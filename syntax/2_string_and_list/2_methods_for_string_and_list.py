@@ -50,3 +50,8 @@ print()
 
 my_string = my_string.strip()
 print(my_string.find('is a'))
+print()
+
+my_string = "this is a string"
+l = my_string.split(' ')
+print(l)
