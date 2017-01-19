@@ -1,6 +1,6 @@
 import random
-import itertools
 from copy import deepcopy
+import itertools
 
 def make_board():    
 
@@ -17,6 +17,7 @@ def attempt_board():
 
 	for i in range(9):
 		for j in range(9):
+			# the starting row and column number of the 3*3 square
 			i0, j0 = i - i % 3, j - j % 3 
 			# shuffle the list so that the board won't be the same
 			random.shuffle(numbers)
@@ -58,6 +59,7 @@ def print_answers(board):
 			  .format(*(cell or ' ' for cell in line)))
 		if (i + 1) % 3 == 0: print(spacer.replace('-', '='))
 		else: print(spacer)
+
 
 board = make_board()
 print_board(board)
