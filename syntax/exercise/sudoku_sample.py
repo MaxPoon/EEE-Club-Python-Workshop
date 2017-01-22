@@ -63,6 +63,5 @@ def print_answers(board):
 
 board = make_board()
 print_board(board)
-print("Press any key to see the answer\n")
-input()
+input("Press any key to see the answer\n")
 print_answers(board)
