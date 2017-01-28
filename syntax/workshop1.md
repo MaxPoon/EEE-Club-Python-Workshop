@@ -21,6 +21,13 @@ Download a text editor or IDE to write python scripts. I would recommand sublime
 
 There are two ways to use python: using the python interpreter or running the python scripts (*.py files).
 
+##### To invoke the interpreter, type the "python" in your command prompt/terminal.
+
+##### To run the python script, use the following command in your command prompt/terminal:
+```
+python your-script-name.py
+```
+
 ### Syntax
 1. Beginning with python
 2. String and list
