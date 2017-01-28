@@ -2,7 +2,7 @@ import random
 from copy import deepcopy
 import itertools
 
-def make_board():    
+def generate_board():    
 
 	board = None 
 	count = 0
@@ -43,7 +43,7 @@ def print_answers(board):
 		else: print(spacer)
 
 
-board = make_board()
+board = generate_board()
 print_board(board)
 print("Press any key to see the answer\n")
 input()
