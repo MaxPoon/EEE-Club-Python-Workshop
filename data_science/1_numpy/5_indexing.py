@@ -18,5 +18,9 @@ print("r[3:4, 3:6]")
 print(r[3:4, 3:6])
 print()
 
+print("r[:,3:6]:")
+print(r[:,3:6])
+print()
+
 print("r[r>20]")
 print(r[r>20])
