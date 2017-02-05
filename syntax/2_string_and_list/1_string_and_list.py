@@ -12,7 +12,7 @@ my_list[0] = 2
 print(my_list)
 print()
 
-# my_string = 'a'
+# my_string[0] = 'a'
 # print(my_string)
 # string is immutable
 
