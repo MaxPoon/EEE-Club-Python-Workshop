@@ -2,6 +2,7 @@
 
 ### What is python?
 ![python icon](https://realpython.com/learn/python-first-steps/images/pythonlogo.jpg)
+
 1. Multi-purpose (Web, Robotics, Data Analysis, Machine Learning, Web Crawler, etc.)
 2. Object Oriented
 3. Interpreted language (C, C++ and Java are compiled language).
