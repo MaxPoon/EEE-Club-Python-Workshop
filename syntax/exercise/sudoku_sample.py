@@ -3,9 +3,7 @@ from copy import deepcopy
 import itertools
 
 def generate_board():    
-
 	board = None 
-	count = 0
 	while board is None:
 		board = attempt_board()
 	return board
