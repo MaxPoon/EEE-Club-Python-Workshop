@@ -6,4 +6,5 @@
 3. Dictionary and set
 4. Flow control
 5. Method
-6. Exercise
+6. Module
+7. Exercise
