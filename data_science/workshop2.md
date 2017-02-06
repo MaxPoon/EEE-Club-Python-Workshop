@@ -53,9 +53,13 @@ Question: Is the new engine anomalous or should it receive further testing as th
 Anomaly detection can also be used to monitor computers in a data center. eg.
 
 Features:
+
 1. x1 = memory use
+
 2. x2 = number of disk accesses / sec
+
 3. x3 = CPU load
+
 4. x4 = CPU load / network traffic etc.
 Identify machines that are likely to fail and flag off for attention.
 
